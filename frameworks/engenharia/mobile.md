@@ -67,10 +67,10 @@ topics:
           - "Tenta se desbloquear antes de pedir ajuda"
           - "Gerencia seu próprio tempo de forma eficiente, prioriza sua carga de trabalho, é pontual para reuniões e ciente de quando está bloqueando outras pessoas e se preocupa em desbloquear"
           - "Quebra problemas médios em passos menores"
-          exampleCriteria:
-            - criteria: "Ajuda o time, faz o que precisa ser feito"
-              examples:
-                - "Faz ajustes fora da especialidade ou escopo quando necessário, como tarefas de frontend ou de outros squads"
+        exampleCriteria:
+          - criteria: "Ajuda o time, faz o que precisa ser feito"
+            examples:
+              - "Faz ajustes fora da especialidade ou escopo quando necessário, como tarefas de frontend ou de outros squads"
       - level: 3
         criteria:
           - "Entrega tarefas grandes e bem definidas e resolve pequenos problemas não tão definidos"
