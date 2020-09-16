@@ -257,6 +257,14 @@ Ordenamos eles em seis níveis, e tentamos dar exemplos específicos de comporta
 
 Seu gestor vai trabalhar com você nisso. Nada vai acontecer por baixo dos panos. Você vai concordar com o nível de progressão a ser buscado e no que você precisa melhorar. Deve ser claro como você está indo a todo momento.
 
+### Níveis
+1. Estagiário
+2. Associate
+3. Júnior
+4. Pleno
+5. Sênior
+6. Especialista
+
 ### Observações
 - Tem diversas maneiras de progredir e se valorizar dentro da QCX, incluindo habilidade e conhecimento técnico, liderança técnica e gestão de pessoas.
 - O framework representa uma carreira de desenvolvimento, não espere subir todos os níveis em 18 meses.
