@@ -273,6 +273,16 @@ Seu gestor vai trabalhar com você nisso. Nada vai acontecer por baixo dos panos
 5. Sênior
 6. Especialista
 
+### Stack
+- Kotlin
+- Swift
+- Firebase (Auth, Crashlytics, Remote Config)
+- Retrofit
+- Alamofire
+- Koin
+- SQLite
+- MVP (Padrão de Arquitetura)
+
 ### Observações
 - Tem diversas maneiras de progredir e se valorizar dentro da QCX, incluindo habilidade e conhecimento técnico, liderança técnica e gestão de pessoas.
 - O framework representa uma carreira de desenvolvimento, não espere subir todos os níveis em 18 meses.
