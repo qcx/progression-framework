@@ -252,6 +252,17 @@ Seu gestor vai trabalhar com você nisso. Nada vai acontecer por baixo dos panos
 5. Sênior
 6. Especialista
 
+### Stack
+- JQuery
+- Svelte
+- Storeon
+- InertiaJS
+- SCSS
+- CSS Modules
+- TailwindCSS
+- Bootstrap 3 and 4
+- Kori (Nosso Design System ❤️)
+
 ### Observações
 - Tem diversas maneiras de progredir e se valorizar dentro da QCX, incluindo habilidade e conhecimento técnico, liderança técnica e gestão de pessoas.
 - O framework representa uma carreira de desenvolvimento, não espere subir todos os níveis em 18 meses.
