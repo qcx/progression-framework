@@ -263,7 +263,7 @@ Seu gestor vai trabalhar com você nisso. Nada vai acontecer por baixo dos panos
 3. Júnior
 4. Pleno
 5. Sênior
-6. Especialista
+6. Lead
 
 ### Stack
 - Ruby on Rails (Principal)
